@@ -1,0 +1,5 @@
+.docs-build/
+.wrangler/
+node_modules/
+*.plist
+.DS_Store

@@ -1,0 +1,318 @@
+{
+  "source": "Rebuilt 2026-10-18 from the retired AIOLists setup; rows, order and names match the original home screen.",
+  "rows": [
+    {
+      "order": 1,
+      "name": "Top 10 Movies Today",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "todays-most-popular-movies-on-justwatch",
+      "mdblist_id": null,
+      "url": "https://mdblist.com/lists/snoak/todays-most-popular-movies-on-justwatch",
+      "id": "mdb.snoak.top-10-movies-of-the-day",
+      "replaced": "snoak/top-10-movies-of-the-day (now holds IMDb all-time top movies, not a daily chart)"
+    },
+    {
+      "order": 2,
+      "name": "Top 10 Shows Today",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "top-10-shows-of-the-day",
+      "mdblist_id": 136545,
+      "url": "https://mdblist.com/lists/snoak/top-10-shows-of-the-day",
+      "id": "mdb.snoak.top-10-shows-of-the-day"
+    },
+    {
+      "order": 3,
+      "name": "Netflix Top 10 Movies",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "netflix-top-10-movies",
+      "mdblist_id": 86628,
+      "url": "https://mdblist.com/lists/snoak/netflix-top-10-movies",
+      "id": "mdb.snoak.netflix-top-10-movies"
+    },
+    {
+      "order": 4,
+      "name": "Netflix Top 10 Shows",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "netflix-top-10-shows",
+      "mdblist_id": 86620,
+      "url": "https://mdblist.com/lists/snoak/netflix-top-10-shows",
+      "id": "mdb.snoak.netflix-top-10-shows"
+    },
+    {
+      "order": 5,
+      "name": "Max Top 10 Movies",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "hbo-top-10-movies-2",
+      "mdblist_id": 89392,
+      "url": "https://mdblist.com/lists/snoak/hbo-top-10-movies-2",
+      "id": "mdb.snoak.hbo-top-10-movies-2"
+    },
+    {
+      "order": 6,
+      "name": "Max Top 10 Shows",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "hbo-top-10-tv-shows",
+      "mdblist_id": 89310,
+      "url": "https://mdblist.com/lists/snoak/hbo-top-10-tv-shows",
+      "id": "mdb.snoak.hbo-top-10-tv-shows"
+    },
+    {
+      "order": 7,
+      "name": "Disney+ Top 10 Movies",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "disney-plus-top-10-movies",
+      "mdblist_id": 86945,
+      "url": "https://mdblist.com/lists/snoak/disney-plus-top-10-movies",
+      "id": "mdb.snoak.disney-plus-top-10-movies"
+    },
+    {
+      "order": 8,
+      "name": "Disney+ Top 10 Shows",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "disney-plus-top-10-tv-shows",
+      "mdblist_id": 86946,
+      "url": "https://mdblist.com/lists/snoak/disney-plus-top-10-tv-shows",
+      "id": "mdb.snoak.disney-plus-top-10-tv-shows"
+    },
+    {
+      "order": 9,
+      "name": "Prime Top 10 Movies",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "amazon-prime-top-10-shows",
+      "mdblist_id": 86623,
+      "url": "https://mdblist.com/lists/snoak/amazon-prime-top-10-shows",
+      "id": "mdb.snoak.amazon-prime-top-10-shows"
+    },
+    {
+      "order": 10,
+      "name": "Prime Top 10 Shows",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "amazon-prime-top-10-tv-shows",
+      "mdblist_id": 86624,
+      "url": "https://mdblist.com/lists/snoak/amazon-prime-top-10-tv-shows",
+      "id": "mdb.snoak.amazon-prime-top-10-tv-shows"
+    },
+    {
+      "order": 11,
+      "name": "New on Hulu Movies",
+      "type": "movie",
+      "mdblist_user": "garycrawfordgc",
+      "mdblist_slug": "hulu-movies",
+      "mdblist_id": 3096,
+      "url": "https://mdblist.com/lists/garycrawfordgc/hulu-movies",
+      "replaced": "snoak/top-hulu-movies (404 on MDBList since deleted)",
+      "id": "mdb.garycrawfordgc.hulu-movies"
+    },
+    {
+      "order": 12,
+      "name": "New on Hulu Shows",
+      "type": "series",
+      "mdblist_user": "garycrawfordgc",
+      "mdblist_slug": "hulu-shows",
+      "mdblist_id": 3089,
+      "url": "https://mdblist.com/lists/garycrawfordgc/hulu-shows",
+      "replaced": "snoak/top-tv-shows-hulu (404 on MDBList since deleted)",
+      "id": "mdb.garycrawfordgc.hulu-shows"
+    },
+    {
+      "order": 13,
+      "name": "Apple TV+ Top 10 Movies",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "apple-tv-top-10-movies",
+      "mdblist_id": 86626,
+      "url": "https://mdblist.com/lists/snoak/apple-tv-top-10-movies",
+      "id": "mdb.snoak.apple-tv-top-10-movies"
+    },
+    {
+      "order": 14,
+      "name": "Apple TV+ Top 10 Shows",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "apple-tv-top-10-tv-shows",
+      "mdblist_id": 86625,
+      "url": "https://mdblist.com/lists/snoak/apple-tv-top-10-tv-shows",
+      "id": "mdb.snoak.apple-tv-top-10-tv-shows"
+    },
+    {
+      "order": 15,
+      "name": "Paramount+ Top 10 Movies",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "paramount-plus-top-10-movies",
+      "mdblist_id": 89366,
+      "url": "https://mdblist.com/lists/snoak/paramount-plus-top-10-movies",
+      "id": "mdb.snoak.paramount-plus-top-10-movies"
+    },
+    {
+      "order": 16,
+      "name": "Paramount+ Top 10 Shows",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "paramount-plus-top-10-tv-shows",
+      "mdblist_id": 89374,
+      "url": "https://mdblist.com/lists/snoak/paramount-plus-top-10-tv-shows",
+      "id": "mdb.snoak.paramount-plus-top-10-tv-shows"
+    },
+    {
+      "order": 17,
+      "name": "Action",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "action-movies",
+      "mdblist_id": 91211,
+      "url": "https://mdblist.com/lists/snoak/action-movies",
+      "id": "mdb.snoak.action-movies"
+    },
+    {
+      "order": 18,
+      "name": "Comedy",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "comedy-movies",
+      "mdblist_id": 91223,
+      "url": "https://mdblist.com/lists/snoak/comedy-movies",
+      "id": "mdb.snoak.comedy-movies"
+    },
+    {
+      "order": 19,
+      "name": "Crime",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "popular-crime-movies",
+      "mdblist_id": 167312,
+      "url": "https://mdblist.com/lists/snoak/popular-crime-movies",
+      "id": "mdb.snoak.popular-crime-movies"
+    },
+    {
+      "order": 20,
+      "name": "Documentaries",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "popular-documentary-movies",
+      "mdblist_id": 128051,
+      "url": "https://mdblist.com/lists/snoak/popular-documentary-movies",
+      "id": "mdb.snoak.popular-documentary-movies"
+    },
+    {
+      "order": 21,
+      "name": "Drama",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "drama-movies",
+      "mdblist_id": 91296,
+      "url": "https://mdblist.com/lists/snoak/drama-movies",
+      "id": "mdb.snoak.drama-movies"
+    },
+    {
+      "order": 22,
+      "name": "Fantasy / Sci-Fi",
+      "type": "movie",
+      "mdblist_user": "hdlists",
+      "mdblist_slug": "latest-hd-fantasy-sci-fi-movies-top-rated-from-1980-to-today",
+      "mdblist_id": 2412,
+      "url": "https://mdblist.com/lists/hdlists/latest-hd-fantasy-sci-fi-movies-top-rated-from-1980-to-today",
+      "id": "mdb.hdlists.latest-hd-fantasy-sci-fi-movies-top-rated-from-1980-to-today"
+    },
+    {
+      "order": 23,
+      "name": "Horror",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "horror-movies",
+      "mdblist_id": 91215,
+      "url": "https://mdblist.com/lists/snoak/horror-movies",
+      "id": "mdb.snoak.horror-movies"
+    },
+    {
+      "order": 24,
+      "name": "Mystery",
+      "type": "movie",
+      "mdblist_user": "hdlists",
+      "mdblist_slug": "latest-hd-mystery-movies-top-rated-from-1980-to-today",
+      "mdblist_id": 2416,
+      "url": "https://mdblist.com/lists/hdlists/latest-hd-mystery-movies-top-rated-from-1980-to-today",
+      "id": "mdb.hdlists.latest-hd-mystery-movies-top-rated-from-1980-to-today"
+    },
+    {
+      "order": 25,
+      "name": "Romance",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "popular-romance-movies",
+      "mdblist_id": 128262,
+      "url": "https://mdblist.com/lists/snoak/popular-romance-movies",
+      "id": "mdb.snoak.popular-romance-movies"
+    },
+    {
+      "order": 26,
+      "name": "Sci-Fi",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "science-fiction-movies",
+      "mdblist_id": 91220,
+      "url": "https://mdblist.com/lists/snoak/science-fiction-movies",
+      "id": "mdb.snoak.science-fiction-movies"
+    },
+    {
+      "order": 27,
+      "name": "Thriller",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "thriller-movies",
+      "mdblist_id": 91893,
+      "url": "https://mdblist.com/lists/snoak/thriller-movies",
+      "id": "mdb.snoak.thriller-movies"
+    },
+    {
+      "order": 28,
+      "name": "Animated",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "popular-animated-movies",
+      "mdblist_id": 116037,
+      "url": "https://mdblist.com/lists/snoak/popular-animated-movies",
+      "id": "mdb.snoak.popular-animated-movies"
+    },
+    {
+      "order": 29,
+      "name": "Miniseries",
+      "type": "series",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "popular-miniseries",
+      "mdblist_id": 130153,
+      "url": "https://mdblist.com/lists/snoak/popular-miniseries",
+      "id": "mdb.snoak.popular-miniseries"
+    },
+    {
+      "order": 30,
+      "name": "Superhero",
+      "type": "movie",
+      "mdblist_user": "snoak",
+      "mdblist_slug": "superhero-movies",
+      "mdblist_id": 142799,
+      "url": "https://mdblist.com/lists/snoak/superhero-movies",
+      "id": "mdb.snoak.superhero-movies"
+    },
+    {
+      "order": 31,
+      "name": "Family",
+      "type": "movie",
+      "mdblist_user": "hdlists",
+      "mdblist_slug": "latest-hd-family-movies-top-rated-from-1980-to-today",
+      "mdblist_id": 2415,
+      "url": "https://mdblist.com/lists/hdlists/latest-hd-family-movies-top-rated-from-1980-to-today",
+      "id": "mdb.hdlists.latest-hd-family-movies-top-rated-from-1980-to-today"
+    }
+  ]
+}
